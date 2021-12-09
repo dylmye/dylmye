@@ -1,3 +1,5 @@
+Hi, I'm a software developer specialising in React Native but with experience across the stack, including React / JS, PHP, C# and Python. I've also built my experience with the Twitch and Discord APIs for hobby projects.
+
 **Quick Links:**
 
 * 🔗 [My Website](https://dylmye.me)
