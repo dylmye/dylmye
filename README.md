@@ -1,10 +1,12 @@
 Hi, I'm a software developer specialising in React Native but with experience across the stack, including React / JS, PHP, C# and Python. I've also built my experience with the Twitch and Discord APIs for hobby projects.
 
+Here's some projects I'm working on:
+* 🕹 [Projects I've made with/for Discord and Twitch](https://github.com/stars/dylmye/lists/my-twitch-discord-projects)
+* ⚛️ [React and React Native projects I've made](https://github.com/stars/dylmye/lists/my-react-react-native-repos)
+* 💻 [My effort to revive Github's Personal Website project](https://github.com/better-personal-website)
+
 **Quick Links:**
 
 * 🔗 [My Website](https://dylmye.me)
 * 🦢 [My Twitter](https://twitter.com/dylan_mye)
 * 📥 [My LinkedIn](https://www.linkedin.com/in/dylan--m/)
-* 🐍 [A project I worked on recently, using Python and AWS Lambda to connect Discord and Twitch](https://github.com/dylmye/twitch-golive-discord) ([see blog post](https://dylmye.me/2021/03/08/twitch-discord/))
-* 📱 [An app I'm working on right now, in React Native + TypeScript](https://github.com/dylmye/slickmod)
-* 💻 [A portfolio template project I'm maintaining](https://github.com/better-personal-website/personal-website)
