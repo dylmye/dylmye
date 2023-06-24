@@ -1,0 +1,86 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2023-06-24T00:00:00.000-00:00",
+  "WinGetVersion": "1.6.1573-preview",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "CoreyButler.NVMforWindows"
+        },
+        {
+          "PackageIdentifier": "RubyInstallerTeam.Ruby.3.1"
+        },
+        {
+          "PackageIdentifier": "Docker.DockerDesktop"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "Google.CloudSDK"
+        },
+        {
+          "PackageIdentifier": "Amazon.AWSCLI"
+        },
+        {
+          "PackageIdentifier": "ShiningLight.OpenSSL.Light"
+        },
+        {
+          "PackageIdentifier": "Insomnia.Insomnia"
+        },
+        {
+          "PackageIdentifier": "MSYS2.MSYS2"
+        },
+        {
+          "PackageIdentifier": "EclipseAdoptium.Temurin.11.JDK"
+        },
+        {
+          "PackageIdentifier": "Perforce.P4V"
+        },
+        {
+          "PackageIdentifier": "GitHub.cli"
+        },
+        {
+          "PackageIdentifier": "Python.Python.3.12"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerShell"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsTerminal"
+        },
+        {
+          "PackageIdentifier": "OpenVPNTechnologies.OpenVPNConnect"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2012.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2010.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2008.x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2005.x64"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ]
+}
