@@ -7,5 +7,4 @@ Hi, I'm a software developer specialising in React Native but with experience ac
 
 **Quick Links:**
 * 🔗 [My portfolio and blog](https://dylmye.me)
-* 🦢 [My Twitter](https://twitter.com/dylan_mye)
 * 📥 [My LinkedIn](https://www.linkedin.com/in/dylan--m/)
