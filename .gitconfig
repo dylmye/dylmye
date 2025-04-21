@@ -12,7 +12,6 @@
     tool = code
 [mergetool "code"]
     cmd = code --wait --merge $REMOTE $LOCAL $BASE $MERGED
-
 # Use SSH key for commit signing, partial snippet from: https://developer.1password.com/docs/ssh/git-commit-signing/
 [gpg]
   format = ssh
