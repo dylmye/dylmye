@@ -1,0 +1,20 @@
+[core]
+    # set VS Code as the default Git editor
+    editor = "code ---wait"
+    # Don't convert line endings to avoid pissing off Linux devs
+    autocrlf = false
+# See: https://code.visualstudio.com/docs/sourcecontrol/overview#_vs-code-as-git-editor
+[diff]
+    tool = default-difftool
+[difftool "default-difftool"]
+    cmd = code --wait --diff $LOCAL $REMOTE
+[merge]
+    tool = code
+[mergetool "code"]
+    cmd = code --wait --merge $REMOTE $LOCAL $BASE $MERGED
+
+# Use SSH key for commit signing, partial snippet from: https://developer.1password.com/docs/ssh/git-commit-signing/
+[gpg]
+  format = ssh
+[commit]
+  gpgsign = true
