@@ -17,3 +17,28 @@
   format = ssh
 [commit]
   gpgsign = true
+# use main branch instead of master
+[init]
+  defaultBranch = main
+# automatically set upstream origin
+[push]
+	autoSetupRemote = true
+# use rebase method when pulling remote commits
+[pull]
+	rebase = true
+# automatically clear up merge remnants
+[mergetool]
+	keepBackup = false
+[alias]
+    # shorthand for switch main && pull && switch - && rebase
+    rebase-local = pull origin main:main --rebase
+# See: https://bun.sh/guides/install/git-diff-bun-lockfile
+[diff "lockb"]
+	textconv = bun
+	binary = true
+# Set up by git-lfs
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
